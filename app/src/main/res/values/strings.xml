@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ma première interface</string>
+
+    <string-array name="civilite">
+        <item>Monsieur</item>
+        <item>Madame</item>
+        <item>Mademoiselle</item>
+    </string-array>
+</resources>
